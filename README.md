@@ -3,14 +3,14 @@
 I build things inspired by real problems and curiosity.  
 Apps, tools, and experiments — code meets the physical world.
 
-Some projects are hand-coded, others use AI as a collaborator — all are driven by real needs and shipped solutions.
+Some projects are hand-coded, others use AI as a collaborator — all driven by real needs and shipped solutions.
 
 ---
 
 ## 🔧 Selected Projects
 
 - **RapidPlan** – Emergency response planning PWA for real-world incident workflows  
-- **FoamCalc** – Fire response calculation tool used in operational scenarios  
+- **FoamCalc** – Fire response calculation tool built for operational use 
 - **DDC Tracker** – Daily system covering six life domains to support balance and success  
 - **QuoteKeeper** – Offline-capable quote library with search, tags, and Firebase  
 - **ItemCount** – Simple utility built to solve a real moving-day problem  
