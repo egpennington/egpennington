@@ -37,4 +37,4 @@ JavaScript · React · Vite · HTML/CSS · Firebase · PWAs · Arduino/ESP32 · 
 
 ## Connect
 - Bluesky: https://emmettmagic.bsky.social
-- Facebook: 
+- Facebook: https://www.facebook.com/profile.php?id=563787989
