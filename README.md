@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Emmett
 
-I build things inspired by real problems and curiosity.  
-Apps, tools, and experiments — code meets the physical world.
+Creating solutions to real-world challenges, driven by curiosity and creativity. Building practical apps and tools where code meets possibilities.
 
 Some projects are hand-coded, others use AI as a collaborator — all driven by real needs and shipped solutions.
 
