@@ -1,12 +1,12 @@
-# 👋 Hi, I’m Emmett
+# 👋 Hi, I’m Emmett (에밋)
 
-Creating solutions to real-world challenges, driven by curiosity and creativity. Building practical apps and tools where code meets possibilities.
+Building practical apps, tools, and systems driven by curiosity and real-world needs.
 
-Some projects are hand-coded, others use AI as a collaborator — all driven by real needs and shipped solutions.
+I use code, creativity, and modern tools, including AI when it helps, to turn ideas into working solutions people can actually use.
 
 ---
 
-## 🔧 Selected Projects
+## Selected Projects
 
 - **RapidPlan** – Emergency response planning PWA for real-world incident workflows  
 - **FoamCalc** – Fire response calculation tool built for operational use 
@@ -19,18 +19,20 @@ Some projects are hand-coded, others use AI as a collaborator — all driven by 
 
 ## How I Work
 
-- I start with real-world friction and turn it into software  
-- I value problem definition as much as implementation  
-- I ship early, iterate often, and learn by building  
-- I blend hand-written code with AI-assisted development  
+- I see a problem -> I start building
+- I learn by building, testing, and refining in real time
+- I ship early, iterate often, and improve through use
+- I blend hand-written code with AI-assisted development
 
 At the core, I’m a problem-solver who expresses ideas through code.
+
+> Real applications aren’t defined by complexity. They’re defined by usefulness. If your app solves a real problem and people can use it, it’s a real application. — Spruce Emmanuel
 
 ---
 
 ## 🛠 Tech
 
-JavaScript · React · Vite · HTML/CSS · Firebase · PWAs · Arduino/ESP32 · Linux
+JavaScript · React · Vite · HTML/CSS · Firebase · PWAs · Arduino/ESP32/C++ · C++ · Linux
 
 ---
 
